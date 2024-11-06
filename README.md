@@ -5,6 +5,6 @@ This repository contains a series of lab tasks focused on the fundamental concep
 - **Instructor**: Syed Bilal Haider
 - **Course Code**: CSC441
 
-## Technologies Used:**
+## Technologies Used:
 - **Programming Language**: C#
 - **Development Environment**: Visual Studio, .NET Framework
