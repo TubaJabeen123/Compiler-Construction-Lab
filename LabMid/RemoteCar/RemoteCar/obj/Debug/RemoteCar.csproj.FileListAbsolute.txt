@@ -1,0 +1,10 @@
+C:\Users\fatim\source\repos\RemoteCar\RemoteCar\bin\Debug\RemoteCar.exe.config
+C:\Users\fatim\source\repos\RemoteCar\RemoteCar\bin\Debug\RemoteCar.exe
+C:\Users\fatim\source\repos\RemoteCar\RemoteCar\bin\Debug\RemoteCar.pdb
+C:\Users\fatim\source\repos\RemoteCar\RemoteCar\obj\Debug\RemoteCar.csproj.AssemblyReference.cache
+C:\Users\fatim\source\repos\RemoteCar\RemoteCar\obj\Debug\RemoteCar.Form1.resources
+C:\Users\fatim\source\repos\RemoteCar\RemoteCar\obj\Debug\RemoteCar.Properties.Resources.resources
+C:\Users\fatim\source\repos\RemoteCar\RemoteCar\obj\Debug\RemoteCar.csproj.GenerateResource.cache
+C:\Users\fatim\source\repos\RemoteCar\RemoteCar\obj\Debug\RemoteCar.csproj.CoreCompileInputs.cache
+C:\Users\fatim\source\repos\RemoteCar\RemoteCar\obj\Debug\RemoteCar.exe
+C:\Users\fatim\source\repos\RemoteCar\RemoteCar\obj\Debug\RemoteCar.pdb

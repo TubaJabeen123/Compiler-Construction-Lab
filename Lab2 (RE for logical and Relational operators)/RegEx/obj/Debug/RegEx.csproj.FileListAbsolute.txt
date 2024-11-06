@@ -1,0 +1,11 @@
+C:\Users\fatim\source\repos\RegEx\bin\Debug\RegEx.exe.config
+C:\Users\fatim\source\repos\RegEx\bin\Debug\RegEx.exe
+C:\Users\fatim\source\repos\RegEx\bin\Debug\RegEx.pdb
+C:\Users\fatim\source\repos\RegEx\obj\Debug\RegEx.csproj.AssemblyReference.cache
+C:\Users\fatim\source\repos\RegEx\obj\Debug\LogicalOperatorsRegex.LogicalOperators.resources
+C:\Users\fatim\source\repos\RegEx\obj\Debug\RegEx.Properties.Resources.resources
+C:\Users\fatim\source\repos\RegEx\obj\Debug\RegEx.RelationalOperators.resources
+C:\Users\fatim\source\repos\RegEx\obj\Debug\RegEx.csproj.GenerateResource.cache
+C:\Users\fatim\source\repos\RegEx\obj\Debug\RegEx.csproj.CoreCompileInputs.cache
+C:\Users\fatim\source\repos\RegEx\obj\Debug\RegEx.exe
+C:\Users\fatim\source\repos\RegEx\obj\Debug\RegEx.pdb

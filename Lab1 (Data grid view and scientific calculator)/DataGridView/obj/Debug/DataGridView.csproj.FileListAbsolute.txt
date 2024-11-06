@@ -1,0 +1,10 @@
+C:\Users\fatim\source\repos\DataGridView\bin\Debug\DataGridView.exe.config
+C:\Users\fatim\source\repos\DataGridView\bin\Debug\DataGridView.exe
+C:\Users\fatim\source\repos\DataGridView\bin\Debug\DataGridView.pdb
+C:\Users\fatim\source\repos\DataGridView\obj\Debug\DataGridView.csproj.AssemblyReference.cache
+C:\Users\fatim\source\repos\DataGridView\obj\Debug\DataGridView.gridView.resources
+C:\Users\fatim\source\repos\DataGridView\obj\Debug\DataGridView.Properties.Resources.resources
+C:\Users\fatim\source\repos\DataGridView\obj\Debug\DataGridView.csproj.GenerateResource.cache
+C:\Users\fatim\source\repos\DataGridView\obj\Debug\DataGridView.csproj.CoreCompileInputs.cache
+C:\Users\fatim\source\repos\DataGridView\obj\Debug\DataGridView.exe
+C:\Users\fatim\source\repos\DataGridView\obj\Debug\DataGridView.pdb

@@ -1,0 +1,10 @@
+C:\Users\fatim\source\repos\GrammarParser\GrammarParser\bin\Debug\GrammarParser.exe.config
+C:\Users\fatim\source\repos\GrammarParser\GrammarParser\bin\Debug\GrammarParser.exe
+C:\Users\fatim\source\repos\GrammarParser\GrammarParser\bin\Debug\GrammarParser.pdb
+C:\Users\fatim\source\repos\GrammarParser\GrammarParser\obj\Debug\GrammarParser.csproj.AssemblyReference.cache
+C:\Users\fatim\source\repos\GrammarParser\GrammarParser\obj\Debug\GrammarParser.MainForm.resources
+C:\Users\fatim\source\repos\GrammarParser\GrammarParser\obj\Debug\GrammarParser.Properties.Resources.resources
+C:\Users\fatim\source\repos\GrammarParser\GrammarParser\obj\Debug\GrammarParser.csproj.GenerateResource.cache
+C:\Users\fatim\source\repos\GrammarParser\GrammarParser\obj\Debug\GrammarParser.csproj.CoreCompileInputs.cache
+C:\Users\fatim\source\repos\GrammarParser\GrammarParser\obj\Debug\GrammarParser.exe
+C:\Users\fatim\source\repos\GrammarParser\GrammarParser\obj\Debug\GrammarParser.pdb

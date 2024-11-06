@@ -1,0 +1,10 @@
+C:\Users\fatim\source\repos\LabMid\LabMid\bin\Debug\LabMid.exe.config
+C:\Users\fatim\source\repos\LabMid\LabMid\bin\Debug\LabMid.exe
+C:\Users\fatim\source\repos\LabMid\LabMid\bin\Debug\LabMid.pdb
+C:\Users\fatim\source\repos\LabMid\LabMid\obj\Debug\LabMid.csproj.AssemblyReference.cache
+C:\Users\fatim\source\repos\LabMid\LabMid\obj\Debug\LabMid.Form1.resources
+C:\Users\fatim\source\repos\LabMid\LabMid\obj\Debug\LabMid.Properties.Resources.resources
+C:\Users\fatim\source\repos\LabMid\LabMid\obj\Debug\LabMid.csproj.GenerateResource.cache
+C:\Users\fatim\source\repos\LabMid\LabMid\obj\Debug\LabMid.csproj.CoreCompileInputs.cache
+C:\Users\fatim\source\repos\LabMid\LabMid\obj\Debug\LabMid.exe
+C:\Users\fatim\source\repos\LabMid\LabMid\obj\Debug\LabMid.pdb

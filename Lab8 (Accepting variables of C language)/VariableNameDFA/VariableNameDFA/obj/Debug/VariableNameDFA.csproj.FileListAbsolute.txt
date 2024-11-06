@@ -1,0 +1,10 @@
+C:\Users\fatim\source\repos\VariableNameDFA\VariableNameDFA\bin\Debug\VariableNameDFA.exe.config
+C:\Users\fatim\source\repos\VariableNameDFA\VariableNameDFA\bin\Debug\VariableNameDFA.exe
+C:\Users\fatim\source\repos\VariableNameDFA\VariableNameDFA\bin\Debug\VariableNameDFA.pdb
+C:\Users\fatim\source\repos\VariableNameDFA\VariableNameDFA\obj\Debug\VariableNameDFA.csproj.AssemblyReference.cache
+C:\Users\fatim\source\repos\VariableNameDFA\VariableNameDFA\obj\Debug\VariableNameDFA.Form1.resources
+C:\Users\fatim\source\repos\VariableNameDFA\VariableNameDFA\obj\Debug\VariableNameDFA.Properties.Resources.resources
+C:\Users\fatim\source\repos\VariableNameDFA\VariableNameDFA\obj\Debug\VariableNameDFA.csproj.GenerateResource.cache
+C:\Users\fatim\source\repos\VariableNameDFA\VariableNameDFA\obj\Debug\VariableNameDFA.csproj.CoreCompileInputs.cache
+C:\Users\fatim\source\repos\VariableNameDFA\VariableNameDFA\obj\Debug\VariableNameDFA.exe
+C:\Users\fatim\source\repos\VariableNameDFA\VariableNameDFA\obj\Debug\VariableNameDFA.pdb

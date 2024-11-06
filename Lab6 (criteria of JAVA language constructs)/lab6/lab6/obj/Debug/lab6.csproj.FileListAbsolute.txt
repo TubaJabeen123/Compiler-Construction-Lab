@@ -1,0 +1,10 @@
+C:\Users\fatim\source\repos\lab6\lab6\obj\Debug\lab6.csproj.AssemblyReference.cache
+C:\Users\fatim\source\repos\lab6\lab6\obj\Debug\lab6.javaCodeGenerator.resources
+C:\Users\fatim\source\repos\lab6\lab6\obj\Debug\lab6.Properties.Resources.resources
+C:\Users\fatim\source\repos\lab6\lab6\obj\Debug\lab6.csproj.GenerateResource.cache
+C:\Users\fatim\source\repos\lab6\lab6\obj\Debug\lab6.csproj.CoreCompileInputs.cache
+C:\Users\fatim\source\repos\lab6\lab6\bin\Debug\lab6.exe.config
+C:\Users\fatim\source\repos\lab6\lab6\bin\Debug\lab6.exe
+C:\Users\fatim\source\repos\lab6\lab6\bin\Debug\lab6.pdb
+C:\Users\fatim\source\repos\lab6\lab6\obj\Debug\lab6.exe
+C:\Users\fatim\source\repos\lab6\lab6\obj\Debug\lab6.pdb
